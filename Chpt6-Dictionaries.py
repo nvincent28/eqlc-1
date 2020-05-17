@@ -279,7 +279,7 @@ users = {
 	'mjordan': {
 	'first': 'michael',
 	'last': 'jordan',
-	'location': 'chicago',
+	'location': 'washington',
 	'nickname': 'Air'},
 
 	'ejohnson': {
